@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sa100821_joselin</string>
+    <string name="item_menu_configuracion"> Confuguracion</string>
+    <string name="item_menu_perfil"> Ver perfil</string>
+    <string name="item_menu_geolocalizacion"> Enviar mi ubicacion</string>
+    <string name="item_menu_nuevacuenta"> Crear nueva cuenta</string>
+    <string name="item_menu_salir"> Cerrar sesion</string>
+
+    <string name="btn_nueva_activity"> Abrir nueva ventana</string>
+    <string name="txt_texto_segunda_activity"> Esta es la segunda Activity en Ejecucion</string>
+
+
+
+
+</resources>
